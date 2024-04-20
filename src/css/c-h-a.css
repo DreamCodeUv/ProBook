@@ -1,0 +1,43 @@
+.about-txt {
+    width: 70%;
+    background-color: aliceblue;
+    background-color: aliceblue;
+    background: radial-gradient(#61b7cb, #74e04dad);
+}
+.abt-tx {
+    background-color: aliceblue;
+    height: 14rem;
+    padding-top: 1rem;
+    border: 1px solid;
+    padding-left: 1rem;
+    min-height: 60vh;
+}
+h2.about {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    /* padding-left: 1rem; */
+}
+p.abt-t {
+    font-size: 20px;
+   
+}
+.contact-form {
+    width: 100%;
+}
+.contact-icons {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+img.sc-icn {
+    width: 3rem;
+}
+/* .so-txt {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background: radial-gradient(#61b7cb, #74e04dad);
+    padding: 3rem;
+} */
