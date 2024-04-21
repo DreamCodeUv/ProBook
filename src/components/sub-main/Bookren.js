@@ -2,6 +2,7 @@ import '../../css/book.css';
 import Bookdb from '../../books/Bookdb';
 
 import React, { useMemo } from 'react';
+import OnBanner from '../adCmps/OnBanner';
 // import im from '../../Assets/bookcovers/cover.jpg'
 
 
@@ -40,6 +41,8 @@ const Bookren = () => {
                                                 </div>
                                             </div>
                                         </div>
+                                        <hr></hr>
+                                        <OnBanner />
                                     </>
                                 )
                             })

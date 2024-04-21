@@ -195,6 +195,7 @@ span#hda {
     animation-name: tiltd;
     animation-duration: 1s;
     animation-fill-mode: forwards;
+    margin-bottom: -10px;
 }
 /* span#nor {
     animation-name: tiltUr;

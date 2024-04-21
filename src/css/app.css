@@ -64,6 +64,7 @@ p.para-sub {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    margin-bottom: 3rem;
 }
 
 .book-ref {
@@ -126,6 +127,12 @@ button.book-d:hover {
     font-weight: 600;
 }
 
+hr {
+    height: 0px;
+    border: 2px solid;
+    border-style: dotted;
+    margin-bottom: 1rem;
+}
 /* responsive */
 
 @media (max-width:1150px) {
